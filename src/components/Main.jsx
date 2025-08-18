@@ -1,7 +1,7 @@
 import Nav from './Nav'
 const Main = () => {
   return (
-    <div>
+    <div className='bg-indigo-600'>
         <Nav/>
     </div>
   )
